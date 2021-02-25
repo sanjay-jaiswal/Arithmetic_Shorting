@@ -13,3 +13,5 @@ resultArray[exp2]=$(($Number1*$Number2+$Number3));
 resultArray[exp3]=$(($Number3+$Number1/$Number2));
 resultArray[exp4]=$(($Number1%$Number2+$Number3));
 resultArray[exp3]=$(($Number3+$Number1/$Number2));
+
+resultArray[exp4]=$(($Number1%$Number2+$Number3));
